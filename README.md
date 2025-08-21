@@ -5,14 +5,33 @@ Una aplicación Flutter para gestión de pedidos con roles diferenciados (Admin/
 ## 🚀 Características
 
 ### 👨‍💼 Administrador
+
+![Pantalla Administrador](./assets/images/Admin.png)
+
 - **Panel de Administración**: Agregar, editar y eliminar productos
+
+![Crud Productos](./assets/images/Admin_crud_productos.png)
+
 - **Gestión de Stock**: Control automático de inventario
 - **Ver Todos los Pedidos**: Supervisión completa de pedidos
 
+![Pantalla pedidos](./assets/images/Admin_pedidos.png)
+
 ### 🛒 Cliente
+
+![Pantalla Cliente](./assets/images/Cliente.png)
+
 - **Catálogo de Productos**: Navegación intuitiva con información de stock
+
+![Pantalla productos](./assets/images/Cliente_productos.png)
+
 - **Carrito de Compras**: Agregar productos y gestionar cantidades
+
+![Carrito de compras](./assets/images/Cliente_carrito.png)
+
 - **Mis Pedidos**: Historial personal de pedidos realizados
+
+![Pedidos cliente](./assets/images/Cliente_pedidos.png)
 
 ### 🔧 Funcionalidades Técnicas
 - **Autenticación Firebase**: Registro y login seguro
